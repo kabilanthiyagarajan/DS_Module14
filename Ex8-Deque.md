@@ -1,4 +1,4 @@
-# EX.NO : 2(B) Priority Queue
+# EX.NO : 2(C) Priority Queue
 ## DATE: 03/03/2025
 ## AIM:
 To formulate the C code to display the elements of the priority queue after insertion and deletion operation.
